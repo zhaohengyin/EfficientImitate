@@ -12,14 +12,14 @@ bash make.sh
 
 **Step 3: Download the data.** Finally, we need to download the demonstration data at (TBD), and put them into the ``./data`` folder.
 
-## Launch Training
+## Training
 We put the launch scripts at the ``./scripts`` folder. For example, you can launch the training of walker by
 ```
 bash ./scripts/walker_state.sh
 ```
 
-## Cite this work
-If you find this work useful and would like to cite it in youre research:
+## Citation
+If you find this work useful and would like to cite it in your research:
 ```
 @inproceedings{efficientimitate,
   title={Planning for Sample Efficient Imitation Learning},
